@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @subhammahanty235
 - 👀 I’m interested in Coding and web development
 - 🌱 I’m currently learning BCA(Bachelor in Computer Application)
-- 💞️ I’m looking to collaborate on Web development and Pyhton Peojects
+- 💞️ I’m looking to collaborate on Web development and Python Projects
 - 📫 You can reach me via email : subhammahanty235@gmail.com
 - 📃 I love to learn something new everytime.
 
