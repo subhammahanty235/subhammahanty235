@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @subhammahanty235
+- 👋 Hi, I’m Subham Mahanty 
 - 👀 I’m interested in Coding and web development
 - 🌱 I’m currently studying BCA(Bachelor's in Computer Application)
 - 💞️ I’m looking to collaborate on Web development and Python Projects
