@@ -1,5 +1,6 @@
 # 💫 About Me:
-I am a BCA(Bachelor in Computer Application) student and a self-taught programmer. 
+Hi, I am Subham Mahanty, An AI/ML enthusiast , a full-time learner and a passionate Web developer. I am an undergraduate of BCA at Arka Jain University (Jamshedpur). I have a keen interest to try out new tech and gain experience in different fields. I am always open to work and devote my time to enhancing my skills to another level. I am participating in Hackathons.
+I am familiar with React, JavaScript, Python, Java, and Git and currently learning Backend Development and exploring other frameworks and tools like Spring and Golang.
 
 
 ## 🌐 Socials:
