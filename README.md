@@ -1,6 +1,11 @@
 # 💫 About Me:
-Hi, I am Subham Mahanty, An AI/ML enthusiast , a full-time learner and a passionate Web developer. I am an undergraduate of BCA at Arka Jain University (Jamshedpur). I have a keen interest to try out new tech and gain experience in different fields. I am always open to work and devote my time to enhancing my skills to another level. I am participating in Hackathons.
-I am familiar with React, JavaScript, Python, Java, and Git and currently learning Backend Development and exploring other frameworks and tools like Spring and Golang.
+🔧 Backend Developer | Scalable Systems | DevOps & Cloud Engineering
+
+I'm a backend engineer focused on building robust, high-performance systems. With experience in technologies like Node.js, Golang, Redis, Kafka, and MongoDB, I specialize in designing scalable architectures, optimizing APIs, and implementing secure, reliable infrastructures.
+
+Proficient in system design, CI/CD pipelines, and cloud-native development using Docker, Kubernetes, and Azure, I enjoy solving real-world engineering problems with clean, maintainable code. I’ve also led development efforts across internal tools and platform features, driving both technical growth and team collaboration.
+
+Always curious. Always improving. Focused on impact.
 
 
 ## 🌐 Socials:
